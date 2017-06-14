@@ -1,0 +1,53 @@
+.w_mainbar{
+    background-color: #283e90;
+position : fixed;
+width:100%;
+border-bottom: 5px solid black;
+}
+.w_jumbotron{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+margin-left: 20%;
+}
+.navbar-default .navbar-brand:hover {
+    color: #fff;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #eff5c7;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: #eff5c7;
+}
+
+.w_home_form_interchange{
+float: left;
+}
+.navbar-toggle{
+background-color: white;
+}
+.footer>*{
+padding: 4px;
+}
+.footer{
+    position: fixed;
+    bottom: 1px;
+text-align: center;
+    font-size: 18px;
+background-color: rgba(30, 30, 167, 0.82);
+width: 100%;
+}
+.w_btn-primary{
+background-color: #283e90;
+}
+.w_btn-primary:hover{
+background-color: #28907e;
+}
+.w_input_tform{
+height: 50px;
+}
+.w-height-50px{
+height:50px;
+}
